@@ -4,52 +4,142 @@
 
 ---
 
-## Setup
+## 0. Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Create issues
+- Create a new a repo from the given template
+- Clone the repo
+- Run npm install
+- Created a branch for each file
+-
 
----
+## 1. Title
 
-<!-- copy this section once for each must-have user story -->
+- As a user, I need to see the title of the page
+- This branch is merged to master branch after completion.
 
-## user story
+## Html
 
-<!-- each issue created from this section will have the `for: user story` label -->
+- Add header tag
+- Add h1 for the page title
 
-> "as a ... i can ... so that ..."
+## CSS
 
-<!-- write any extra notes or description -->
+- Add class centered-item to the header
+- make the display flex and add padding
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+## 2. Logos
 
-### Logic: user story
+### As a user I want to see logos of the page
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- This user story is developed on branch `logos`.
+- This branch is merged to `master` branch after completion.
 
-### Interface: user story
+### Html
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add the `img`
 
-### Interaction: user story
+### Css
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add class `logo-img` to both `img`
+- add `width` and `height`
+- add `keyframe`
+- add `hover`
+- add `color`
 
-### Documentation: user story
+## 3. Navigation links
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### As a user I want to see navigation links
+
+- This user story is developed on branch `navbar`.
+- This branch is merged to `master` branch after completion.
+
+### Html
+
+- add two `nav`
+- add a `div` parent
+- add `a`
+- add text `Skill` and `Contact`
+
+### Css
+
+- add class `navigation-bar` to both `nav`
+- add display `flex`,
+- add `justify-contend`,
+- add `align-item-center`
+- add `border`
+
+## 4. Skill
+
+### As a user I want to see your skills section
+
+- This user story is developed on branch `showcase`.
+- This branch is merged to `main` branch after completion.
+
+### Html
+
+- add two `div`
+- add a `container-div` inside each div
+- add `h1`
+- add `img`
+- add `h3`
+- add `p`
+
+### Css
+
+- add display `grid`,
+- add `justify-content`,
+- add `align-item-center`
+- add `background`
+- add `color`
+
+## 5. Contact
+
+### As a user I want to be able to contact you
+
+- This user story is developed on branch `subscribe`.
+- This branch is merged to `main` branch after completion.
+
+### Html
+
+- add `h1`
+- add `form`
+- add `div`
+- add three `input`
+- add `button`
+
+### Css
+
+- add `text-align`
+- add `width`
+- add `border-bottom`
+- add `color`
+- add `hover event`
+
+## 6. Footer
+
+### As a user I want to see the footer
+
+- This user story is developed on branch `footer`.
+- This branch is merged to `main` branch after completion.
+
+### Html
+
+- add `footer`
+- add two `div`
+- add `form`
+- add `inputs`
+- add `button`
+- add `map`
+- add links for `facebook`, `Instagram`, `Tweeter`
+- add `a`
+- add `h3`
+
+### Css
+
+- add `grid`
+- add `justify-contend`
+- add `align-item-center`
+- add `color`
+- add `background`
+- add `hover`
