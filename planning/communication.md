@@ -8,9 +8,9 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|  Monday   |     Start with HTML|                         |
+| Day    |       How       | The topic of discussion |
+| ------ | :-------------: | ----------------------- |
+| Monday | Start with HTML |                         |
 
 ## Communication Channels
 
@@ -22,8 +22,8 @@ This is an individual project
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | Namrata | 10 - 20 | 10 - 20 |  10 - 20  | 10 - 20  | 10 - 20 | 10 - 20  | 10 - 20 |
 
 ### How many hours everyone has per day

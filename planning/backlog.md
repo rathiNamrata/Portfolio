@@ -21,13 +21,13 @@ Portfolio for a fresher frontend developer NAMRATA
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a user,I expect the website to offer seamless interaction and optimal usability
+- [ ] As a user,I expect the website to offer seamless interaction and optimal
+      usability
   - the site will contain interesting design details that will be user-friendly
-  
+
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a user, I want to get in touch with someone quickly
-  -there is a contact form above the footer
-  
+- [ ] As a user, I want to get in touch with someone quickly -there is a contact
+      form above the footer
