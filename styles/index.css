@@ -1,1 +1,114 @@
 @import url("./something.css");
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: burlywood;
+}
+
+nav {
+  width: 60%;
+}
+
+header {
+  background-color: gray;
+  color: azure;
+  padding: 20px;
+}
+
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: lightgray;
+  box-shadow: 0 0 10px blue;
+}
+
+h2 {
+  color: brown;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.name-lang {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lang-img {
+  width: 40px;
+  height: 40px;
+}
+
+.linkdoc {
+  color: beige;
+  justify-items: left;
+  text-decoration: none;
+}
+
+.container1 {
+  display: flex;
+}
+
+.container1 h1 {
+  text-align: center;
+  padding-top: 100px;
+  padding-left: 20%;
+  font-size: 40px;
+}
+
+.container1 nav {
+  text-align: right;
+  padding-left: 10%;
+  font-size: 25px;
+}
+
+img {
+  width: 200px;
+}
+
+.container p img {
+  font-size: small;
+  width: 16px;
+}
+
+.footer {
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: 0;
+  padding: 2rem;
+  background: grey;
+  color: white;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.img-container {
+  width: 40%;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.skills ul {
+  display: grid;
+  justify-content: space-around;
+  align-items: center;
+  list-style: disc;
+}
+
+.name-lang h2 {
+  color: beige;
+}
