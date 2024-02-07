@@ -19,7 +19,8 @@
     "Milena's",
     "RATHI",
     "Evere",
-    "linkdoc"
+    "linkdoc",
+    "Substraction"
   ],
   "ignorePaths": [
     "node_modules/**",
